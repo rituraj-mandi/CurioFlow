@@ -1,16 +1,16 @@
 # CurioFlow
 CurioFlow is a curiosity-driven AI routine companion.
-It helps you do tasks in a way that doesn’t feel boring, overwhelming, or robotic.
+It helps you do tasks in a way that doesn’t feel boring, overwhelming, or robotic.  
 
-Instead of showing static schedules, CurioFlow focuses on how tasks are delivered—adapting to what actually motivates you.
+Instead of showing static schedules, CurioFlow focuses on how tasks are delivered—adapting to what actually motivates you.  
 
 🚀 What is CurioFlow?
-Most productivity apps assume lack of discipline is the problem.
-CurioFlow assumes boredom and decision fatigue are the real blockers.
+Most productivity apps assume lack of discipline is the problem.  
+CurioFlow assumes boredom and decision fatigue are the real blockers.  
 
 CurioFlow:
-Guides you on what to do and how to do it
-Breaks tasks into small, doable actions
+Guides you on what to do and how to do it  
+Breaks tasks into small, doable actions  
 Adapts task style based on your feedback and behavior
 Learns what keeps your curiosity alive
 This makes it especially useful for novelty-seeking minds.
